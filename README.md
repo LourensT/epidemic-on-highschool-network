@@ -4,6 +4,6 @@ Analyzing the spread of an epidemic on a social interaction network, based on th
 # Structure
 * `implementation_and_results.ipynb` for notebook that generates and shows most results. 
 * `Simulation.py` contains the general model
-* `Distribution.py` is a helper class that significantly speeds up random sampling by bulk sampling at runtime.
+* `Distribution.py` is a helper class that significantly speeds up random sampling by bulk sampling at runtime. (author: Marko Boon)
 * `network_data.py` contains the networks edges and the (made-up) names.
 * `names_vertexNr.xlsx` translates vertex number to the (made-up) names.
